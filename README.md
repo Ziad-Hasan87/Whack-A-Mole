@@ -7,8 +7,10 @@ WINDOWS:
 3. Once all this is done, you can extract the game from the Whack-a-mole.7z file
 4. Open the "Project Arcade.cbp" file on Codeblocks
 5. Run it and enjoy!
+
 How to add SDL2 to codeblocks Guide: https://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/codeblocks/index.php
 Similar process for SDL2_ttf and SDL2_image.
+
 LINUX:
 1. You need to have SDL2, SDL2_image and SDL2_ttf installed on your system
 2. You can create the .out file by using command
